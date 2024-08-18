@@ -1,0 +1,1 @@
+Los archivos del presente repositorio, representan las diferentes clases del proyecto Universidad, que pertenecen a la actividad 1, de la Guía 1, de la materia Desarrollo de Software de la Universidad EAN.
